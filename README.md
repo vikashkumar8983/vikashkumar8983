@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikash Kumar @vikashkumar8983 
-- 👀 I’m interested in Web Development, Artificial Intelligence.
+- 👀 I’m interested in Web Development, Artificial Intelligence and python related projects.
 - 🌱 I’m currently learning Artificial Intelligence 
 - 💞️ I’m looking to collaborate on web development and AI related projects.
 - 📫 U to reach me vikashkumar8983@gmail.com
