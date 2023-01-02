@@ -35,8 +35,8 @@
   <a href="https://codeforces.com/profile/vikash_83"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/decoder38/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://www.codechef.com/users/vikash_83"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://auth.geeksforgeeks.org/user/vikashkumar8983"><img src="[https://img.icons8.com/color/50/000000/codechef.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fhow-to-add-icon-logo-in-title-bar-using-html%2F&psig=AOvVaw1BeliFB0mS3ihj4lDIUeEm&ust=1672738592062000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCexP3KqPwCFQAAAAAdAAAAABAE)" alt="Geek for Geeks"/></a>
-	<a href="https://atcoder.jp/users/decoder38"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>
+	<a href="https://auth.geeksforgeeks.org/user/vikashkumar8983"><img src="https://img.shields.io/badge/geeksforgeeks-%2325D366.svg?style=plastic&logo=geeksforgeeks&logoColor=white" alt="Geek for Geeks"/></a>
+<!-- 	<a href="https://atcoder.jp/users/decoder38"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a> -->
 	
 </p>
 
@@ -71,10 +71,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-  &emsp;
+<!--   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
+  </a> -->
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
@@ -91,6 +91,14 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+  &emsp; 
+  <a href="https://www.w3schools.com/bootstrap/" target="_blank">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23181717.svg?style=plastic&logo=bootstrap&logoColor=white">
+  </a> 
+	&emsp; 
+  <a href="https://www.w3schools.com/react/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/react%20-%23F05033.svg?style=plastic&logo=react&logoColor=blue">
+  </a> 
 </p>
 
  ### 👉 Software & Tools
@@ -103,17 +111,17 @@
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-000000?style=plastic&logo=nodejs&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    <a href="#"><img alt="Mysql" src="https://img.shields.io/badge/MySQL-%23181717.svg?style=plastic&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
+    <a href="#"><img alt="mongodb" img src="https://img.shields.io/badge/mongodb-%2343B02A.svg?style=plastic&logo=mongodb&logoColor=white"></a>
+<!--   &emsp;
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a> -->
 </p>
 
  ### 👉 IDEs
@@ -122,11 +130,11 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="#"><img alt="Jupyter notebook" src="https://img.shields.io/badge/jupyter notebook-%232C2255.svg?style=plastic&logo=jupyter&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime text%20ide-%2343B02A.svg?&style=plastic&logo=sublimetext%20ide&logoColor=white" /></a>
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
@@ -141,12 +149,14 @@
   &emsp;
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
+	<a href="https://auth.geeksforgeeks.org/user/vikashkumar8983"><img src="https://img.shields.io/badge/geeksforgeeks-%2325D366.svg?style=plastic&logo=geeksforgeeks&logoColor=white" alt="Geek for Geeks"/></a>
+	&emsp;
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
+<!--   &emsp;
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
+</p> -->
 
- ### 👉 Operating Systems
+<!--  ### 👉 Operating Systems
  
 <p align="center">
   &emsp;
@@ -159,7 +169,7 @@
     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
 </p>
 
-<br/>
+<br/> -->
 
 ## 📊 Github Stats
 
@@ -168,25 +178,24 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vikash Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vikashkumar8983&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashkumar8983&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="vikashkumar8983" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
+   <a href="https://github.com/vikashkumar8983"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikashkumar8983&custom_title=vikashkumar8983s%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/> -->
+  
 <br/>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikashkumar8983&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
