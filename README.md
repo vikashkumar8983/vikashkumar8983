@@ -13,7 +13,7 @@
 </p>
 
 
-## :sassy_man:  About me
+## :sassy_man:  About me 
 - :school: I am a 3rd year B.Tech student at `NIT Jamshedpur`
 - :technologist: I love using software as a solution for every `Problem`
 - :computer: I am a competitive programmer and MERN stack web developer
