@@ -14,10 +14,9 @@
 
 
 ## :sassy_man:  About me 
-- :job: Software Engineer
+- :computer: Software Engineer
 - :school: I am a B.Tech grad from `NIT Jamshedpur`
 - :technologist: I love using software as a solution for every `Problem`
-- :computer: I am a competitive programmer and MERN stack web developer
 - :question: Ask me about `DSA , Competitive Programming, Web Development`
 - :nerd_face: Always `learning new things`
 
